@@ -95,4 +95,4 @@ AI/ML Enthusiast | Data Scientist | Problem Solver
 This project is licensed under the MIT License.
 
 ---
-**Made ❤️ by Brijesh Rakhasiya**e.
+**Made ❤️ by Brijesh Rakhasiya**
